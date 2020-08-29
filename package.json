@@ -1,4 +1,10 @@
 {
+	"publisher":"yakenohara",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yakenohara/VSCodeExtension-Aligner.git"
+	},
+	"icon": "assets/images/icon.png",
 	"name": "aligner",
 	"displayName": "Aligner",
 	"description": "Align selections",
